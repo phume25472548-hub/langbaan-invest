@@ -3,7 +3,8 @@ import {fetch as networkFetch, EnvHttpProxyAgent} from 'undici';
 import {unstable_cache} from 'next/cache';
 import snapshot from '../data/bls-snapshot.json';
 import {getTranslation,type Translation} from './translations';
-export type Article={id:string;title:string;content:string;published:string;url:string;topic:string;source:string;translation?:Translation};
+import {getDailyNews} from './daily-news';
+export type Article={id:string;title:string;content:string;published:string;url:string;topic:string;source:string;translation?:Translation;mentionedSymbols?:string[]};
 export {topics} from './news-topics';
 const feeds=[{topic:'CPI',url:'https://www.bls.gov/feed/cpi.rss'},{topic:'EMPLOYMENT',url:'https://www.bls.gov/feed/empsit.rss'},{topic:'PPI',url:'https://www.bls.gov/feed/ppi.rss'},{topic:'JOLTS',url:'https://www.bls.gov/feed/jolts.rss'},{topic:'ECI',url:'https://www.bls.gov/feed/eci.rss'},{topic:'PRODUCTIVITY',url:'https://www.bls.gov/feed/prod2.rss'},{topic:'TRADE_PRICES',url:'https://www.bls.gov/feed/ximpim.rss'}];
 const parser=new XMLParser({ignoreAttributes:false,processEntities:true});
@@ -19,5 +20,5 @@ export const getNews=unstable_cache(async()=>{
  const articles=outcomes.flatMap(r=>r.articles).sort((a,b)=>Date.parse(b.published)-Date.parse(a.published));
  return {articles:articles.map(a=>({...a,translation:getTranslation(a)})),retrievedAt:new Date().toISOString(),fallbackTopics:outcomes.filter(r=>r.fallback).map(r=>r.topic),snapshotAt:snapshot.retrievedAt};
 },['bls-news-v3-assets'],{revalidate:3600});
-export async function getArticle(id:string){const news=await getNews();const article=news.articles.find(a=>a.id===id)||snapshot.articles.find(a=>a.id===id);return article?{...article,translation:getTranslation(article)}:undefined}
+export async function getArticle(id:string){const news=id.startsWith('fed-')?{articles:[]}:await getNews();const article:Article|undefined=id.startsWith('fed-')?(await getDailyNews()).articles.find(a=>a.id===id):news.articles.find(a=>a.id===id)||snapshot.articles.find(a=>a.id===id);return article?{...article,translation:getTranslation(article)}:undefined}
 export function formatDate(value:string){return new Intl.DateTimeFormat('th-TH',{dateStyle:'medium',timeStyle:'short',timeZone:'Asia/Shanghai'}).format(new Date(value))}
