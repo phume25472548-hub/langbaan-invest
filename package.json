@@ -23,9 +23,11 @@
   "homepage": "https://github.com/phume25472548-hub/langbaan-invest-#readme",
   "private": true,
   "dependencies": {
+    "fast-xml-parser": "^5.11.2",
     "next": "^16.4.0",
     "react": "^19.3.0",
-    "react-dom": "^19.3.0"
+    "react-dom": "^19.3.0",
+    "undici": "^8.11.2"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.3.3",

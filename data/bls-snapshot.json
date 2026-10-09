@@ -1,0 +1,329 @@
+{
+  "retrievedAt": "2026-10-09T10:45:59.973898+00:00",
+  "articles": [
+    {
+      "id": "empsit-2026_10_02__07_51_08",
+      "title": "Both payroll employment (+29,000) and unemployment rate (4.2%) change little in September",
+      "content": "Both nonfarm payroll employment (+29,000) and the unemployment rate  (4.2 percent) changed little in September. Employment in all major  industries changed little over the month.",
+      "published": "2026-10-02T07:51:08.289-04:00",
+      "url": "https://www.bls.gov/news.release/archives/empsit_10022026.htm",
+      "topic": "EMPLOYMENT",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "cpi-2026_09_11__07_50_40",
+      "title": "CPI for all items increases 0.4% in August; gasoline rises",
+      "content": "In August, the Consumer Price Index for All Urban Consumers rose 0.4 percent, seasonally adjusted (SA), and rose 3.4 percent over the last 12 months, not seasonally adjusted (NSA). The index for  all items less food and energy rose 0.3 percent in August (SA), up 2.4 percent over the year (NSA).",
+      "published": "2026-09-11T07:50:40.968-04:00",
+      "url": "https://www.bls.gov/news.release/archives/cpi_09112026.htm",
+      "topic": "CPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ppi-2026_09_10__07_50_35",
+      "title": "PPI for final demand moves up 0.4% in August; goods advance 1.1%, services rise 0.1%",
+      "content": "The Producer Price Index for final demand moved up 0.4 percent in August. Prices for final  demand goods advanced 1.1 percent, and the index for final demand services increased 0.1  percent. Prices for final demand rose 5.4 percent for the 12 months ended in August.",
+      "published": "2026-09-10T07:50:35.512-04:00",
+      "url": "https://www.bls.gov/news.release/archives/ppi_09102026.htm",
+      "topic": "PPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "empsit-2026_09_04__07_51_08",
+      "title": "Payroll employment increases by 162,000 in August; unemployment rate unchanged at 4.1%",
+      "content": "Total nonfarm payroll employment increased by 162,000 in August,  and the unemployment rate was unchanged at 4.1 percent. Employment  increased in food services and drinking places and in local  government education. The information industry lost jobs.",
+      "published": "2026-09-04T07:51:08.695-04:00",
+      "url": "https://www.bls.gov/news.release/archives/empsit_09042026.htm",
+      "topic": "EMPLOYMENT",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ppi-2026_08_13__07_50_26",
+      "title": "PPI for final demand unchanged in July; services advance 0.2%, goods fall 0.7%",
+      "content": "The Producer Price Index for final demand was unchanged in July. Prices for final demand  services increased 0.2 percent, and the index for final demand goods decreased 0.7 percent.  Prices for final demand increased 4.7 percent for the 12 months ended in July.",
+      "published": "2026-08-13T07:50:26.955-04:00",
+      "url": "https://www.bls.gov/news.release/archives/ppi_08132026.htm",
+      "topic": "PPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "cpi-2026_08_12__07_51_16",
+      "title": "CPI for all items increases 0.1% in July; shelter rises",
+      "content": "In July, the Consumer Price Index for All Urban Consumers rose 0.1 percent, seasonally adjusted (SA), and rose 3.4 percent over the last 12 months, not seasonally adjusted (NSA). The index for  all items less food and energy rose 0.2 percent in July (SA); up 2.5 percent over the year (NSA).",
+      "published": "2026-08-12T07:51:16.21-04:00",
+      "url": "https://www.bls.gov/news.release/archives/cpi_08122026.htm",
+      "topic": "CPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "empsit-2026_08_07__07_50_34",
+      "title": "Both payroll employment (-23,000) and unemployment rate (4.1%) change little in July",
+      "content": "Both nonfarm payroll employment (-23,000) and the unemployment rate (4.1 percent) changed little in July. Employment declined in local government education and retail trade. Employment continued to trend up in health care.",
+      "published": "2026-08-07T07:50:34.021-04:00",
+      "url": "https://www.bls.gov/news.release/archives/empsit_08072026.htm",
+      "topic": "EMPLOYMENT",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ppi-2026_07_15__07_50_27",
+      "title": "PPI for final demand declines 0.3% in June; goods fall 1.4%, services increase 0.2%",
+      "content": "The Producer Price Index for final demand fell 0.3 percent in June. Prices for final demand  goods decreased 1.4 percent, and the index for final demand services moved up 0.2 percent.  Prices for final demand increased 5.5 percent for the 12 months ended in June.",
+      "published": "2026-07-15T07:50:27.246-04:00",
+      "url": "https://www.bls.gov/news.release/archives/ppi_07152026.htm",
+      "topic": "PPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "cpi-2026_07_14__07_50_27",
+      "title": "CPI for all items falls 0.4% in June; gasoline down",
+      "content": "In June, the Consumer Price Index for All Urban Consumers fell 0.4 percent, seasonally adjusted, and rose 3.5 percent over the last 12 months, not seasonally adjusted. The index for all items less food and energy was unchanged in June (SA); up 2.6 percent over the year (NSA).",
+      "published": "2026-07-14T07:50:27.969-04:00",
+      "url": "https://www.bls.gov/news.release/archives/cpi_07142026.htm",
+      "topic": "CPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "empsit-2026_07_02__07_50_52",
+      "title": "Both payroll employment (+57,000) and unemployment rate (4.2%) change little in June",
+      "content": "Both total nonfarm payroll employment (+57,000) and the unemployment rate (4.2 percent) changed little in June. Employment continued to trend up in professional and business services, social assistance, and health care. Leisure and hospitality lost jobs.",
+      "published": "2026-07-02T07:50:52.662-04:00",
+      "url": "https://www.bls.gov/news.release/archives/empsit_07022026.htm",
+      "topic": "EMPLOYMENT",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ppi-2026_06_11__08_30_00",
+      "title": "PPI for final demand advances 1.1% in May; goods rise 2.8%, services increase 0.3% ",
+      "content": "The Producer Price Index for final demand rose 1.1 percent in May. Prices for final demand  goods increased 2.8 percent, and the index for final demand services moved up 0.3 percent.  Prices for final demand advanced 6.5 percent for the 12 months ended in May. ",
+      "published": "2026-06-11T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/ppi_06112026.htm",
+      "topic": "PPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "cpi-2026_06_10__08_30_00",
+      "title": "CPI for all items rises 0.5% in May; gasoline and shelter up",
+      "content": "In May, the Consumer Price Index for All Urban Consumers rose 0.5 percent, seasonally adjusted, and rose 4.2 percent over the last 12 months, not seasonally adjusted. The index for all items less food and energy increased 0.2 percent in May (SA); up 2.9 percent over the year (NSA).",
+      "published": "2026-06-10T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/cpi_06102026.htm",
+      "topic": "CPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "empsit-2026_06_05__08_30_00",
+      "title": "Payroll employment increases by 172,000 in May; unemployment rate unchanged at 4.3%",
+      "content": "Total nonfarm payroll employment increased by 172,000 in May, and the unemployment rate was unchanged at 4.3 percent. Job gains occurred in leisure and hospitality, local government, and health care. Employment in financial activities declined.",
+      "published": "2026-06-05T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/empsit_06052026.htm",
+      "topic": "EMPLOYMENT",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ppi-2026_05_13__08_30_00",
+      "title": "PPI for final demand advances 1.4% in April; services rise 1.2%, goods increase 2.0% ",
+      "content": "The Producer Price Index for final demand increased 1.4 percent in April. Prices for final  demand services advanced 1.2 percent, and the index for final demand goods moved up 2.0  percent. Prices for final demand rose 6.0 percent for the 12 months ended in April.  ",
+      "published": "2026-05-13T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/ppi_05132026.htm",
+      "topic": "PPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "cpi-2026_05_12__08_30_00",
+      "title": "CPI for all items rises 0.6% in April; shelter and gasoline up",
+      "content": "In April, the Consumer Price Index for All Urban Consumers rose 0.6 percent, seasonally adjusted, and rose 3.8 percent over the last 12 months, not seasonally adjusted. The index for all items less food and energy increased 0.4 percent in April (SA); up 2.8 percent over the year (NSA).",
+      "published": "2026-05-12T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/cpi_05122026.htm",
+      "topic": "CPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "empsit-2026_05_08__08_30_00",
+      "title": "Payroll employment edges up by 115,000 in April; unemployment rate unchanged at 4.3%",
+      "content": "Total nonfarm payroll employment edged up by 115,000 in April, and the unemployment rate was unchanged at 4.3 percent. Job gains occurred in health care, transportation and warehousing, and retail trade. Federal government employment continued to decline.",
+      "published": "2026-05-08T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/empsit_05082026.htm",
+      "topic": "EMPLOYMENT",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ppi-2026_04_14__08_30_00",
+      "title": "PPI for final demand advances 0.5% in March; goods rise 1.6%, services unchanged ",
+      "content": "The Producer Price Index for final demand increased 0.5 percent in March. Prices for final  demand goods advanced 1.6 percent, and the index for final demand services was unchanged.  Prices for final demand rose 4.0 percent for the 12 months ended in March. ",
+      "published": "2026-04-14T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/ppi_04142026.htm",
+      "topic": "PPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "cpi-2026_04_10__08_30_00",
+      "title": "CPI for all items rises 0.9% in March; gasoline up",
+      "content": "In March, the Consumer Price Index for All Urban Consumers rose 0.9 percent, seasonally adjusted, and rose 3.3 percent over the last 12 months, not seasonally adjusted. The index for all items less food and energy increased 0.2 percent in March (SA); up 2.6 percent over the year (NSA).",
+      "published": "2026-04-10T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/cpi_04102026.htm",
+      "topic": "CPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "empsit-2026_04_03__08_30_00",
+      "title": "Payroll employment increases by 178,000 in March; unemployment rate changes little at 4.3%",
+      "content": "Total nonfarm payroll employment increased by 178,000 in March, and the unemployment rate changed little at 4.3 percent. Job gains occurred in health care, in construction, and in transportation and warehousing. Federal government employment continued to decline.",
+      "published": "2026-04-03T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/empsit_04032026.htm",
+      "topic": "EMPLOYMENT",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ppi-2026_03_18__08_30_00",
+      "title": "PPI for final demand advances 0.7% in February; services rise 0.5%, goods increase 1.1% ",
+      "content": "The Producer Price Index for final demand increased 0.7 percent in February. Prices for final  demand services moved up 0.5 percent, and the index for final demand goods advanced 1.1  percent. The index for final demand rose 3.4 percent for the 12 months ended in February.   ",
+      "published": "2026-03-18T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/ppi_03182026.htm",
+      "topic": "PPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "cpi-2026_03_11__08_30_00",
+      "title": "CPI for all items rises 0.3% in February; shelter up",
+      "content": "In February, the Consumer Price Index for All Urban Consumers rose 0.3 percent, seasonally adjusted, and rose 2.4 percent over the last 12 months, not seasonally adjusted. The index for all items less food and energy increased 0.2 percent in February (SA); up 2.5 percent over the year (NSA).",
+      "published": "2026-03-11T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/cpi_03112026.htm",
+      "topic": "CPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "empsit-2026_03_06__08_30_00",
+      "title": "Payroll employment edges down 92,000 in February; unemployment rate changes little at 4.4%",
+      "content": "Total nonfarm payroll employment edged down by 92,000 in February, and the unemployment rate changed little at 4.4 percent. Employment in health care decreased, reflecting strike activity. Employment in information and federal government continued to trend down.",
+      "published": "2026-03-06T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/empsit_03062026.htm",
+      "topic": "EMPLOYMENT",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ppi-2026_02_27__08_30_00",
+      "title": "PPI for final demand advances 0.5% in January; services rise 0.8%, goods decrease 0.3% ",
+      "content": "The Producer Price Index for final demand increased 0.5 percent in January. Prices for final  demand services advanced 0.8 percent, and the index for final demand goods declined 0.3  percent. On an unadjusted basis, the index for final demand rose 2.9 percent for the 12 months  ended in January. ",
+      "published": "2026-02-27T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/ppi_02272026.htm",
+      "topic": "PPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "cpi-2026_02_13__08_30_00",
+      "title": "CPI for all items rises 0.2% in January; shelter up",
+      "content": "In January, the Consumer Price Index for All Urban Consumers rose 0.2 percent, seasonally adjusted, and rose 2.4 percent over the last 12 months, not seasonally adjusted. The index for all items less food and energy increased 0.3 percent in January (SA); up 2.5 percent over the year (NSA).",
+      "published": "2026-02-13T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/cpi_02132026.htm",
+      "topic": "CPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "empsit-2026_02_11__08_30_00",
+      "title": "Payroll employment rises by 130,000 in January; unemployment rate changes little at 4.3%",
+      "content": "Total nonfarm payroll employment rose by 130,000 in January, and the  unemployment rate changed little at 4.3 percent. Job gains occurred in health care, social assistance, and construction, while federal  government and financial activities lost jobs.",
+      "published": "2026-02-11T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/empsit_02112026.htm",
+      "topic": "EMPLOYMENT",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ppi-2026_01_30__08_30_00",
+      "title": "PPI for final demand advances 0.5% in December; services rise 0.7%, goods unchanged ",
+      "content": "The Producer Price Index for final demand increased 0.5 percent in December. Prices for final  demand services advanced 0.7 percent, and the index for final demand goods was unchanged. On  an unadjusted basis, prices for final demand rose 3.0 percent in 2025.  ",
+      "published": "2026-01-30T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/ppi_01302026.htm",
+      "topic": "PPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ppi-2026_01_14__08_30_00",
+      "title": "PPI for final demand advances 0.2% in November; goods rise 0.9%, services unchanged ",
+      "content": "The Producer Price Index for final demand increased 0.2 percent in November. Prices for final  demand goods advanced 0.9 percent, and the index for final demand services was unchanged. On  an unadjusted basis, prices for final demand rose 3.0 percent for the 12 months ended in  November. ",
+      "published": "2026-01-14T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/ppi_01142026.htm",
+      "topic": "PPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "cpi-2026_01_13__08_30_00",
+      "title": "CPI for all items rises 0.3% in December; shelter and food up",
+      "content": "In December, the Consumer Price Index for All Urban Consumers rose 0.3 percent, seasonally adjusted, and rose 2.7 percent over the last 12 months, not seasonally adjusted. The index for all items less food and energy increased 0.2 percent in December (SA); up 2.6 percent over the year (NSA).",
+      "published": "2026-01-13T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/cpi_01132026.htm",
+      "topic": "CPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "empsit-2026_01_09__08_30_00",
+      "title": "Both payroll employment (+50,000) and unemployment rate (4.4%) change little in December",
+      "content": "Both total nonfarm payroll employment (+50,000) and the unemployment rate  (4.4 percent) changed little in December. Employment continued to trend up in food services and drinking places, health care, and social assistance. Retail trade lost jobs.",
+      "published": "2026-01-09T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/empsit_01092026.htm",
+      "topic": "EMPLOYMENT",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "cpi-2025_12_18__08_30_00",
+      "title": "CPI for all items rises 2.7% over 12 months ending in November; shelter up",
+      "content": "In November, the Consumer Price Index for All Urban Consumers rose 2.7 percent over the last 12 months, not seasonally adjusted. The index for all items less food and energy increased 2.6 percent over the year (NSA).",
+      "published": "2025-12-18T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/cpi_12182025.htm",
+      "topic": "CPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "empsit-2025_12_16__08_30_00",
+      "title": "Both payroll employment (+64,000) and unemployment rate (4.6%) change little in November",
+      "content": "Total nonfarm payroll employment changed little in November (+64,000) and has changed little since April. The November unemployment rate was 4.6 percent, little changed from September. Employment rose in health care and construction in November, while federal government continued to lose jobs.",
+      "published": "2025-12-16T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/empsit_12162025.htm",
+      "topic": "EMPLOYMENT",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ppi-2025_11_25__08_30_00",
+      "title": "PPI for final demand advances 0.3% in September; goods rise 0.9%, services unchanged ",
+      "content": "The Producer Price Index for final demand increased 0.3 percent in September. Prices for final  demand goods advanced 0.9 percent, and the index for final demand services was unchanged. On  an unadjusted basis, prices for final demand moved up 2.7 percent for the 12 months ended in  September. ",
+      "published": "2025-11-25T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/ppi_11252025.htm",
+      "topic": "PPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "empsit-2025_11_20__08_30_00",
+      "title": "Payroll employment edges up 119,000 in September; unemployment rate changes little at 4.4%",
+      "content": "Total nonfarm payroll employment edged up in September (+119,000),  and the unemployment rate changed little at 4.4 percent. Employment trended up in health care, food services and drinking places, and  social assistance. Transportation and warehousing and federal  government lost jobs.",
+      "published": "2025-11-20T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/empsit_11202025.htm",
+      "topic": "EMPLOYMENT",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "cpi-2025_10_24__08_30_00",
+      "title": "CPI for all items rises 0.3% in September; gasoline up",
+      "content": "In September, the Consumer Price Index for All Urban Consumers rose 0.3 percent, seasonally adjusted, and rose 3.0 percent over the last 12 months, not seasonally adjusted. The index for all items less food and energy increased 0.2 percent in September (SA); up 3.0 percent over the year (NSA).",
+      "published": "2025-10-24T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/cpi_10242025.htm",
+      "topic": "CPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "cpi-2025_09_11__08_30_00",
+      "title": "CPI for all items rises 0.4% in August; shelter and food up",
+      "content": "In August, the Consumer Price Index for All Urban Consumers rose 0.4 percent, seasonally adjusted, and rose 2.9 percent over the last 12 months, not seasonally adjusted. The index for all items less food and energy increased 0.3 percent in August (SA); up 3.1 percent over the year (NSA).",
+      "published": "2025-09-11T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/cpi_09112025.htm",
+      "topic": "CPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ppi-2025_09_10__08_30_00",
+      "title": "PPI for final demand declines 0.1% in August; services fall 0.2%, goods increase 0.1% ",
+      "content": " The Producer Price Index for final demand edged down 0.1 percent in August. Prices for final  demand services declined 0.2 percent, and the index for final demand goods rose 0.1 percent. On  an unadjusted basis, the index for final demand advanced 2.6 percent for the 12 months ended in  August. ",
+      "published": "2025-09-10T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/ppi_09102025.htm",
+      "topic": "PPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    }
+  ]
+}
