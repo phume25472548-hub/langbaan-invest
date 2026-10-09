@@ -4,8 +4,8 @@ import {unstable_cache} from 'next/cache';
 import snapshot from '../data/bls-snapshot.json';
 import {getTranslation,type Translation} from './translations';
 export type Article={id:string;title:string;content:string;published:string;url:string;topic:string;source:string;translation?:Translation};
-export const topics:Record<string,string>={CPI:'เงินเฟ้อผู้บริโภค (CPI)',EMPLOYMENT:'การจ้างงานสหรัฐฯ',PPI:'ราคาผู้ผลิต (PPI)'};
-const feeds=[{topic:'CPI',url:'https://www.bls.gov/feed/cpi.rss'},{topic:'EMPLOYMENT',url:'https://www.bls.gov/feed/empsit.rss'},{topic:'PPI',url:'https://www.bls.gov/feed/ppi.rss'}];
+export {topics} from './news-topics';
+const feeds=[{topic:'CPI',url:'https://www.bls.gov/feed/cpi.rss'},{topic:'EMPLOYMENT',url:'https://www.bls.gov/feed/empsit.rss'},{topic:'PPI',url:'https://www.bls.gov/feed/ppi.rss'},{topic:'JOLTS',url:'https://www.bls.gov/feed/jolts.rss'},{topic:'ECI',url:'https://www.bls.gov/feed/eci.rss'},{topic:'PRODUCTIVITY',url:'https://www.bls.gov/feed/prod2.rss'},{topic:'TRADE_PRICES',url:'https://www.bls.gov/feed/ximpim.rss'}];
 const parser=new XMLParser({ignoreAttributes:false,processEntities:true});
 const agent=new EnvHttpProxyAgent();
 function plain(value:unknown):string {return typeof value==='string'?value:typeof value==='number'?String(value):''}
@@ -18,6 +18,6 @@ export const getNews=unstable_cache(async()=>{
  const outcomes=await Promise.all(feeds.map(async feed=>{try{const response=await networkFetch(feed.url,{dispatcher:agent,signal:AbortSignal.timeout(12000)});if(!response.ok)throw new Error('Feed unavailable');const xml=await response.text();if(xml.length>1000000)throw new Error('Feed too large');return {articles:parseFeed(xml,feed.topic),fallback:false,topic:feed.topic}}catch{return {articles:snapshot.articles.filter(a=>a.topic===feed.topic),fallback:true,topic:feed.topic}}}));
  const articles=outcomes.flatMap(r=>r.articles).sort((a,b)=>Date.parse(b.published)-Date.parse(a.published));
  return {articles:articles.map(a=>({...a,translation:getTranslation(a)})),retrievedAt:new Date().toISOString(),fallbackTopics:outcomes.filter(r=>r.fallback).map(r=>r.topic),snapshotAt:snapshot.retrievedAt};
-},['bls-news-v2-th'],{revalidate:3600});
+},['bls-news-v3-assets'],{revalidate:3600});
 export async function getArticle(id:string){const news=await getNews();const article=news.articles.find(a=>a.id===id)||snapshot.articles.find(a=>a.id===id);return article?{...article,translation:getTranslation(article)}:undefined}
 export function formatDate(value:string){return new Intl.DateTimeFormat('th-TH',{dateStyle:'medium',timeStyle:'short',timeZone:'Asia/Shanghai'}).format(new Date(value))}

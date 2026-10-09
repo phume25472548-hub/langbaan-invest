@@ -11,6 +11,24 @@
       "source": "U.S. Bureau of Labor Statistics"
     },
     {
+      "id": "jolts-2026_09_29__09_20_32",
+      "title": "August job openings and hires change little; total separations unchanged",
+      "content": "The number of job openings and hires were little changed at 7.1 million and 5.2 million, respectively, in  August. Total separations were unchanged at 5.1 million.",
+      "published": "2026-09-29T09:20:32.09-04:00",
+      "url": "https://www.bls.gov/news.release/archives/jolts_09292026.htm",
+      "topic": "JOLTS",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ximpim-2026_09_16__07_50_36",
+      "title": "U.S. import prices rise 0.7% in August on higher nonfuel prices; export prices up 0.6%",
+      "content": "In August, U.S. import prices advanced 0.7 percent following a drop of 0.3 percent in  July. U.S. export prices rose 0.6 percent in August after declining 1.4 percent in July.  Over the past 12 months, import prices advanced 7.0 percent, and export prices rose 8.6  percent.",
+      "published": "2026-09-16T07:50:36.196-04:00",
+      "url": "https://www.bls.gov/news.release/archives/ximpim_09162026.htm",
+      "topic": "TRADE_PRICES",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
       "id": "cpi-2026_09_11__07_50_40",
       "title": "CPI for all items increases 0.4% in August; gasoline rises",
       "content": "In August, the Consumer Price Index for All Urban Consumers rose 0.4 percent, seasonally adjusted (SA), and rose 3.4 percent over the last 12 months, not seasonally adjusted (NSA). The index for  all items less food and energy rose 0.3 percent in August (SA), up 2.4 percent over the year (NSA).",
@@ -35,6 +53,33 @@
       "published": "2026-09-04T07:51:08.695-04:00",
       "url": "https://www.bls.gov/news.release/archives/empsit_09042026.htm",
       "topic": "EMPLOYMENT",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "prod2-2026_09_03__07_51_09",
+      "title": "Productivity increases 1.4% in Q2 2026; unit labor costs increase 1.2% (annualized rates)",
+      "content": "Productivity increased 1.4 percent in the nonfarm business sector in the second quarter of 2026;  unit labor costs increased 1.2 percent (seasonally adjusted annualized rates). In manufacturing,  productivity increased 2.4 percent and unit labor costs decreased 0.3 percent.",
+      "published": "2026-09-03T07:51:09.23-04:00",
+      "url": "https://www.bls.gov/news.release/archives/prod2_09032026.htm",
+      "topic": "PRODUCTIVITY",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "jolts-2026_09_01__09_20_29",
+      "title": "Job openings, hires, and total separations change little in July",
+      "content": "Job openings were little changed at 7.3 million in July. Hires and total separations were both little  changed at 5.1 million.",
+      "published": "2026-09-01T09:20:29.31-04:00",
+      "url": "https://www.bls.gov/news.release/archives/jolts_09012026.htm",
+      "topic": "JOLTS",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ximpim-2026_08_18__07_50_25",
+      "title": "U.S. import prices decline 0.4% in July on lower fuel prices; export prices fall 1.3%",
+      "content": "In July, U.S. import prices decreased 0.4 percent following a drop of 0.3 percent in June.  U.S. export prices fell 1.3 percent in July, after declining 0.7 percent in June. Over the  past 12 months, import prices advanced 5.9 percent and export prices rose 8.2 percent.",
+      "published": "2026-08-18T07:50:25.899-04:00",
+      "url": "https://www.bls.gov/news.release/archives/ximpim_08182026.htm",
+      "topic": "TRADE_PRICES",
       "source": "U.S. Bureau of Labor Statistics"
     },
     {
@@ -65,6 +110,42 @@
       "source": "U.S. Bureau of Labor Statistics"
     },
     {
+      "id": "prod2-2026_08_06__07_51_09",
+      "title": "Productivity increases 1.4% in Q2 2026; unit labor costs increase 1.3% (annual rates)",
+      "content": "Productivity increased 1.4 percent in the nonfarm business sector in the second quarter of 2026;  unit labor costs increased 1.3 percent (seasonally adjusted annual rates). In manufacturing,  productivity increased 1.9 percent and unit labor costs were unchanged.",
+      "published": "2026-08-06T07:51:09.778-04:00",
+      "url": "https://www.bls.gov/news.release/archives/prod2_08062026.htm",
+      "topic": "PRODUCTIVITY",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "jolts-2026_08_04__09_20_33",
+      "title": "Job openings and total separations change little in June; hires unchanged",
+      "content": "Job openings and total separations were little changed at 7.4 million and 5.4 million, respectively, in  June. Hires were unchanged at 5.3 million.",
+      "published": "2026-08-04T09:20:33.927-04:00",
+      "url": "https://www.bls.gov/news.release/archives/jolts_08042026.htm",
+      "topic": "JOLTS",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "eci-2026_07_31__07_50_32",
+      "title": "Compensation costs up 0.9% Mar 2026 to Jun 2026 and up 3.4% over the year ending Jun 2026",
+      "content": "Compensation costs increased 0.9 percent for civilian workers, seasonally adjusted, from March 2026 to June 2026. Over the year, total compensation rose 3.4 percent, wages and salaries rose 3.2 percent, and benefit costs rose 3.8 percent.",
+      "published": "2026-07-31T07:50:32.946-04:00",
+      "url": "https://www.bls.gov/news.release/archives/eci_07312026.htm",
+      "topic": "ECI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ximpim-2026_07_17__07_50_46",
+      "title": "U.S. import prices up 0.3% in June on higher nonfuel prices; export prices fall 0.6%",
+      "content": "In June, U.S. import prices rose 0.3 percent following an increase of 1.7 percent in May.  U.S. export prices fell 0.6 percent in June, after rising 1.2 percent in May. Over the past  12 months, import prices advanced 7.1 percent and export prices rose 10.2 percent.",
+      "published": "2026-07-17T07:50:46.04-04:00",
+      "url": "https://www.bls.gov/news.release/archives/ximpim_07172026.htm",
+      "topic": "TRADE_PRICES",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
       "id": "ppi-2026_07_15__07_50_27",
       "title": "PPI for final demand declines 0.3% in June; goods fall 1.4%, services increase 0.2%",
       "content": "The Producer Price Index for final demand fell 0.3 percent in June. Prices for final demand  goods decreased 1.4 percent, and the index for final demand services moved up 0.2 percent.  Prices for final demand increased 5.5 percent for the 12 months ended in June.",
@@ -89,6 +170,24 @@
       "published": "2026-07-02T07:50:52.662-04:00",
       "url": "https://www.bls.gov/news.release/archives/empsit_07022026.htm",
       "topic": "EMPLOYMENT",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "jolts-2026_06_30__09_21_39",
+      "title": "May job openings and hires unchanged; total separations change little",
+      "content": "The numbers of job openings and hires were unchanged at 7.6 million and 5.2 million, respectively, in  May. Total separations were little changed at 5.1 million.",
+      "published": "2026-06-30T09:21:39.266-04:00",
+      "url": "https://www.bls.gov/news.release/archives/jolts_06302026.htm",
+      "topic": "JOLTS",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ximpim-2026_06_16__08_30_00",
+      "title": "U.S. import prices up 1.9% in May on higher fuel prices; export prices rise 1.3% ",
+      "content": "In May, U.S. import prices rose 1.9 percent following an increase of 2.0 percent in April.  U.S. export prices advanced 1.3 percent in May, after rising 3.5 percent in April. Over the  past 12 months, import prices increased 6.7 percent and export prices rose 11.2 percent. ",
+      "published": "2026-06-16T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/ximpim_06162026.htm",
+      "topic": "TRADE_PRICES",
       "source": "U.S. Bureau of Labor Statistics"
     },
     {
@@ -119,6 +218,33 @@
       "source": "U.S. Bureau of Labor Statistics"
     },
     {
+      "id": "prod2-2026_06_04__08_30_00",
+      "title": "  Productivity increases 0.3% in Q1 2026; unit labor costs increase 1.8% (annual rates) ",
+      "content": "  Productivity increased 0.3 percent in the nonfarm business sector in the first quarter of 2026; unit  labor costs increased 1.8 percent (seasonally adjusted annual rates). In manufacturing,  productivity increased 3.2 percent and unit labor costs increased 2.2 percent.",
+      "published": "2026-06-04T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/prod2_06042026.htm",
+      "topic": "PRODUCTIVITY",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "jolts-2026_06_02__10_00_00",
+      "title": "April job openings increase; hires and total separations decrease",
+      "content": "The number of job openings increased to 7.6 million in April. Hires and total separations decreased to  5.1 million and 5.0 million, respectively.",
+      "published": "2026-06-02T10:00:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/jolts_06022026.htm",
+      "topic": "JOLTS",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ximpim-2026_05_14__08_30_00",
+      "title": "U.S. import prices up 1.9% in April on higher fuel prices; export prices rise 3.3%",
+      "content": "In April, U.S. import prices rose 1.9 percent following an increase of 0.9 percent in  March. U.S. export prices advanced 3.3 percent in April, after rising 1.5 percent in  March. Over the past 12 months, import prices increased 4.2 percent and export prices  rose 8.8 percent.",
+      "published": "2026-05-14T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/ximpim_05142026.htm",
+      "topic": "TRADE_PRICES",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
       "id": "ppi-2026_05_13__08_30_00",
       "title": "PPI for final demand advances 1.4% in April; services rise 1.2%, goods increase 2.0% ",
       "content": "The Producer Price Index for final demand increased 1.4 percent in April. Prices for final  demand services advanced 1.2 percent, and the index for final demand goods moved up 2.0  percent. Prices for final demand rose 6.0 percent for the 12 months ended in April.  ",
@@ -143,6 +269,42 @@
       "published": "2026-05-08T08:30:00-04:00",
       "url": "https://www.bls.gov/news.release/archives/empsit_05082026.htm",
       "topic": "EMPLOYMENT",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "prod2-2026_05_07__08_30_00",
+      "title": "  Productivity increases 0.8% in Q1 2026; unit labor costs increase 2.3% (annual rates)",
+      "content": "  Productivity increased 0.8 percent in the nonfarm business sector in the first quarter of 2026;  unit labor costs increased 2.3 percent (seasonally adjusted annual rates). In manufacturing,  productivity increased 3.6 percent and unit labor costs increased 2.4 percent.",
+      "published": "2026-05-07T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/prod2_05072026.htm",
+      "topic": "PRODUCTIVITY",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "jolts-2026_05_05__10_00_00",
+      "title": "March hires increase; job openings unchanged and total separations change little",
+      "content": "The number of hires increased to 5.6 million in March. Job openings were unchanged at 6.9 million while  total separations changed little at 5.4 million.",
+      "published": "2026-05-05T10:00:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/jolts_05052026.htm",
+      "topic": "JOLTS",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "eci-2026_04_30__08_30_00",
+      "title": "Compensation costs up 0.9% Dec 2025 to Mar 2026 and up 3.4% over the year ending Mar 2026",
+      "content": "Compensation costs increased 0.9 percent for civilian workers, seasonally adjusted, from December 2025 to March 2026. Over the year, total compensation rose 3.4 percent, wages and salaries rose 3.4 percent, and benefit costs rose 3.6 percent.",
+      "published": "2026-04-30T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/eci_04302026.htm",
+      "topic": "ECI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ximpim-2026_04_15__08_30_00",
+      "title": "U.S. import prices up 0.8% in March on higher nonfuel prices; export prices rise 1.6%  ",
+      "content": "In March, U.S. import prices rose 0.8 percent, following an increase of 0.9 percent in  February. The index for U.S. export prices advanced 1.6 percent in March after rising 1.9  percent in February. Over the past 12 months, import prices increased 2.1 percent and  export prices advanced 5.6 percent. ",
+      "published": "2026-04-15T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/ximpim_04152026.htm",
+      "topic": "TRADE_PRICES",
       "source": "U.S. Bureau of Labor Statistics"
     },
     {
@@ -173,12 +335,48 @@
       "source": "U.S. Bureau of Labor Statistics"
     },
     {
+      "id": "jolts-2026_03_31__10_00_00",
+      "title": "February hires decrease; job openings and total separations change little ",
+      "content": "The number of hires decreased to 4.8 million in February. Job openings and total separations were both  little changed at 6.9 million and 5.0 million, respectively. ",
+      "published": "2026-03-31T10:00:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/jolts_03312026.htm",
+      "topic": "JOLTS",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ximpim-2026_03_25__08_30_00",
+      "title": "U.S. import prices up 1.3% in February on higher nonfuel prices; export prices rise 1.5% ",
+      "content": "In February, U.S. import prices rose 1.3 percent, following an increase of 0.6 percent in  January. The index for U.S. export prices advanced 1.5 percent in February. Over the past  12 months, import prices increased 1.3 percent and export prices advanced 3.5 percent.  ",
+      "published": "2026-03-25T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/ximpim_03252026.htm",
+      "topic": "TRADE_PRICES",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "prod2-2026_03_24__08_30_00",
+      "title": "  Productivity increases 1.8% in Q4 2025; unit labor costs increase 4.4% (annual rates)",
+      "content": "  Productivity increased 1.8 percent in the nonfarm business sector in the fourth quarter of 2025;  unit labor costs increased 4.4 percent (seasonally adjusted annual rates). In manufacturing,  productivity decreased 2.5 percent and unit labor costs increased 9.1 percent.",
+      "published": "2026-03-24T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/prod2_03242026.htm",
+      "topic": "PRODUCTIVITY",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
       "id": "ppi-2026_03_18__08_30_00",
       "title": "PPI for final demand advances 0.7% in February; services rise 0.5%, goods increase 1.1% ",
       "content": "The Producer Price Index for final demand increased 0.7 percent in February. Prices for final  demand services moved up 0.5 percent, and the index for final demand goods advanced 1.1  percent. The index for final demand rose 3.4 percent for the 12 months ended in February.   ",
       "published": "2026-03-18T08:30:00-04:00",
       "url": "https://www.bls.gov/news.release/archives/ppi_03182026.htm",
       "topic": "PPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "jolts-2026_03_13__10_00_00",
+      "title": "January job openings and total separations change little; hires unchanged ",
+      "content": "The number of job openings was little changed at 6.9 million in January. Hires were unchanged at 5.3  million while total separations changed little at 5.1 million. Annual levels and rates for 2025 are now  available. ",
+      "published": "2026-03-13T10:00:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/jolts_03132026.htm",
+      "topic": "JOLTS",
       "source": "U.S. Bureau of Labor Statistics"
     },
     {
@@ -197,6 +395,24 @@
       "published": "2026-03-06T08:30:00-05:00",
       "url": "https://www.bls.gov/news.release/archives/empsit_03062026.htm",
       "topic": "EMPLOYMENT",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "prod2-2026_03_05__08_30_00",
+      "title": "  Productivity increases 2.8% in Q4 2025; unit labor costs also increase 2.8% (annual rates)",
+      "content": "  Productivity increased 2.8 percent in the nonfarm business sector in the fourth quarter of 2025;  unit labor costs also increased 2.8 percent (seasonally adjusted annual rates). In manufacturing,  productivity decreased 1.9 percent and unit labor costs increased 8.3 percent.",
+      "published": "2026-03-05T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/prod2_03052026.htm",
+      "topic": "PRODUCTIVITY",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ximpim-2026_03_05__08_30_00",
+      "title": "U.S. import prices up 0.2% in January on higher nonfuel prices; export prices rise 0.6% ",
+      "content": "In January, U.S. import prices increased 0.2 percent, following an advance of 0.2 percent  in December. The index for U.S. export prices rose 0.6 percent in January. Over the past  year, import prices declined 0.1 percent and export prices advanced 2.6 percent.  ",
+      "published": "2026-03-05T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/ximpim_03052026.htm",
+      "topic": "TRADE_PRICES",
       "source": "U.S. Bureau of Labor Statistics"
     },
     {
@@ -227,12 +443,57 @@
       "source": "U.S. Bureau of Labor Statistics"
     },
     {
+      "id": "eci-2026_02_10__08_30_00",
+      "title": "Compensation costs up 0.7% Sep 2025 to Dec 2025 and up 3.4% over the year ending Dec 2025",
+      "content": "Compensation costs increased 0.7 percent for civilian workers, seasonally adjusted, from September 2025 to December 2025. Over the year, total compensation rose 3.4 percent, wages and salaries rose 3.3 percent, and benefit costs rose 3.4 percent.",
+      "published": "2026-02-10T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/eci_02102026.htm",
+      "topic": "ECI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ximpim-2026_02_10__08_30_00",
+      "title": "U.S. import prices up 0.1% in December on higher nonfuel prices; export prices rise 0.3% ",
+      "content": "In December, U.S. import prices advanced 0.1 percent and U.S. export prices rose 0.3  percent. Over the past year, import prices were unchanged and export prices increased 3.1  percent.  ",
+      "published": "2026-02-10T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/ximpim_02102026.htm",
+      "topic": "TRADE_PRICES",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "jolts-2026_02_05__10_00_00",
+      "title": "December job openings trend down, hires and total separations change little ",
+      "content": "The number of job openings continued to trend down to 6.5 million in December. Hires and total  separations were both little changed at 5.3 million. ",
+      "published": "2026-02-05T10:00:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/jolts_02052026.htm",
+      "topic": "JOLTS",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
       "id": "ppi-2026_01_30__08_30_00",
       "title": "PPI for final demand advances 0.5% in December; services rise 0.7%, goods unchanged ",
       "content": "The Producer Price Index for final demand increased 0.5 percent in December. Prices for final  demand services advanced 0.7 percent, and the index for final demand goods was unchanged. On  an unadjusted basis, prices for final demand rose 3.0 percent in 2025.  ",
       "published": "2026-01-30T08:30:00-05:00",
       "url": "https://www.bls.gov/news.release/archives/ppi_01302026.htm",
       "topic": "PPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "prod2-2026_01_29__08_30_00",
+      "title": "  Productivity increases 4.9% in Q3 2025; unit labor costs decrease 1.9% (annual rates)",
+      "content": "  Productivity increased 4.9 percent in the nonfarm business sector in the third quarter of 2025;  unit labor costs decreased 1.9 percent (seasonally adjusted annual rates). In manufacturing,  productivity increased 3.7 percent and unit labor costs increased 1.1 percent. ",
+      "published": "2026-01-29T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/prod2_01292026.htm",
+      "topic": "PRODUCTIVITY",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ximpim-2026_01_15__08_30_00",
+      "title": "U.S. import prices rise 0.1% over 12 months ending in November; export prices up 3.3% ",
+      "content": "In November, U.S. import prices rose 0.1 percent over the last 12 months. Prices for U.S.  exports increased 3.3 percent over the same period. ",
+      "published": "2026-01-15T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/ximpim_01152026.htm",
+      "topic": "TRADE_PRICES",
       "source": "U.S. Bureau of Labor Statistics"
     },
     {
@@ -263,6 +524,24 @@
       "source": "U.S. Bureau of Labor Statistics"
     },
     {
+      "id": "prod2-2026_01_08__08_30_00",
+      "title": "  Productivity increases 4.9% in Q3 2025; unit labor costs decrease 1.9% (annual rates)",
+      "content": "  Productivity increased 4.9 percent in the nonfarm business sector in the third quarter of 2025;  unit labor costs decreased 1.9 percent (seasonally adjusted annual rates). In manufacturing,  productivity increased 3.3 percent and unit labor costs increased 1.5 percent. ",
+      "published": "2026-01-08T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/prod2_01082026.htm",
+      "topic": "PRODUCTIVITY",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "jolts-2026_01_07__10_00_00",
+      "title": "November job openings and hires change little; total separations unchanged   ",
+      "content": "The number of job openings was little changed at 7.1 million in November. Hires were little changed and  total separations were unchanged at 5.1 million each.  ",
+      "published": "2026-01-07T10:00:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/jolts_01072026.htm",
+      "topic": "JOLTS",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
       "id": "cpi-2025_12_18__08_30_00",
       "title": "CPI for all items rises 2.7% over 12 months ending in November; shelter up",
       "content": "In November, the Consumer Price Index for All Urban Consumers rose 2.7 percent over the last 12 months, not seasonally adjusted. The index for all items less food and energy increased 2.6 percent over the year (NSA).",
@@ -278,6 +557,33 @@
       "published": "2025-12-16T08:30:00-05:00",
       "url": "https://www.bls.gov/news.release/archives/empsit_12162025.htm",
       "topic": "EMPLOYMENT",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "eci-2025_12_10__08_30_00",
+      "title": "Compensation costs up 0.8% Jun 2025 to Sep 2025 and up 3.5% over the year ending Sep 2025",
+      "content": "Compensation costs increased 0.8 percent for civilian workers, seasonally adjusted, from June 2025 to September 2025. Over the year, total compensation rose 3.5 percent, wages and salaries rose 3.5 percent, and benefit costs rose 3.5 percent.",
+      "published": "2025-12-10T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/eci_12102025.htm",
+      "topic": "ECI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "jolts-2025_12_09__10_00_00",
+      "title": "October job openings unchanged; hires and total separations change little ",
+      "content": "The number of job openings was unchanged at 7.7 million in October. Hires and total separations were  both little changed at 5.1 million.  ",
+      "published": "2025-12-09T10:00:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/jolts_12092025.htm",
+      "topic": "JOLTS",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ximpim-2025_12_03__08_30_00",
+      "title": "U.S. import prices and export prices unchanged in September ",
+      "content": "U.S. import prices were unchanged in September following an uptick of 0.1 percent in  August. Prices for U.S. exports recorded no change in September, after rising 0.1 percent  the previous month. Over the past year, import prices increased 0.3 percent and export  prices advanced 3.8 percent. ",
+      "published": "2025-12-03T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/ximpim_12032025.htm",
+      "topic": "TRADE_PRICES",
       "source": "U.S. Bureau of Labor Statistics"
     },
     {
@@ -308,6 +614,24 @@
       "source": "U.S. Bureau of Labor Statistics"
     },
     {
+      "id": "jolts-2025_09_30__10_00_00",
+      "title": "August job openings unchanged; hires and total separations change little ",
+      "content": "The number of job openings was unchanged at 7.2 million in August. Hires and total separations were  both little changed at 5.1 million.  ",
+      "published": "2025-09-30T10:00:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/jolts_09302025.htm",
+      "topic": "JOLTS",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "ximpim-2025_09_16__08_30_00",
+      "title": "U.S. import prices rise 0.3% in August; export prices advance 0.3% ",
+      "content": "U.S. import prices advanced 0.3 percent in August following a 0.2-percent increase in  July. Prices for U.S. exports rose 0.3 percent in August, after rising 0.3 percent the  previous month. Over the past year, import prices were unchanged and export prices  advanced 3.4 percent. ",
+      "published": "2025-09-16T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/ximpim_09162025.htm",
+      "topic": "TRADE_PRICES",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
       "id": "cpi-2025_09_11__08_30_00",
       "title": "CPI for all items rises 0.4% in August; shelter and food up",
       "content": "In August, the Consumer Price Index for All Urban Consumers rose 0.4 percent, seasonally adjusted, and rose 2.9 percent over the last 12 months, not seasonally adjusted. The index for all items less food and energy increased 0.3 percent in August (SA); up 3.1 percent over the year (NSA).",
@@ -323,6 +647,114 @@
       "published": "2025-09-10T08:30:00-04:00",
       "url": "https://www.bls.gov/news.release/archives/ppi_09102025.htm",
       "topic": "PPI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "prod2-2025_09_04__08_30_00",
+      "title": "  Productivity increases 3.3% in Q2 2025; unit labor costs increase 1.0% (annual rates)",
+      "content": "  Productivity increased 3.3 percent in the nonfarm business sector in the second quarter of 2025;  unit labor costs increased 1.0 percent (seasonally adjusted annual rates). In manufacturing,  productivity increased 2.5 percent and unit labor costs increased 2.0 percent. ",
+      "published": "2025-09-04T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/prod2_09042025.htm",
+      "topic": "PRODUCTIVITY",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "prod2-2025_08_07__08_30_00",
+      "title": "  Productivity increases 2.4% in Q2 2025; unit labor costs increase 1.6% (annual rates)",
+      "content": "  Productivity increased 2.4 percent in the nonfarm business sector in the second quarter of 2025;  unit labor costs increased 1.6 percent (seasonally adjusted annual rates). In manufacturing,  productivity increased 2.1 percent and unit labor costs increased 1.7 percent. ",
+      "published": "2025-08-07T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/prod2_08072025.htm",
+      "topic": "PRODUCTIVITY",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "eci-2025_07_31__08_30_00",
+      "title": "Compensation costs up 0.9% Mar 2025 to Jun 2025 and up 3.6% over the year ending Jun 2025",
+      "content": "Compensation costs increased 0.9 percent for civilian workers, seasonally adjusted, from March 2025 to June 2025. Over the year, total compensation rose 3.6 percent, wages and salaries rose 3.6 percent, and benefit costs rose 3.5 percent.",
+      "published": "2025-07-31T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/eci_07312025.htm",
+      "topic": "ECI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "prod2-2025_06_05__08_30_00",
+      "title": "  Productivity decreases 1.5% in Q1 2025; unit labor costs increase 6.6% (annual rates)",
+      "content": "  Productivity decreased 1.5 percent in the nonfarm business sector in the first quarter of 2025;  unit labor costs increased 6.6 percent (seasonally adjusted annual rates). In manufacturing,  productivity increased 4.4 percent and unit labor costs increased 2.0 percent.",
+      "published": "2025-06-05T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/prod2_06052025.htm",
+      "topic": "PRODUCTIVITY",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "prod2-2025_05_08__08_30_00",
+      "title": "  Productivity decreases 0.8% in Q1 2025; unit labor costs increase 5.7% (annual rates)",
+      "content": "  Productivity decreased 0.8 percent in the nonfarm business sector in the first quarter of 2025;  unit labor costs increased 5.7 percent (seasonally adjusted annual rates). In manufacturing,  productivity increased 4.5 percent and unit labor costs increased 1.6 percent.",
+      "published": "2025-05-08T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/prod2_05082025.htm",
+      "topic": "PRODUCTIVITY",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "eci-2025_04_30__08_30_00",
+      "title": "Compensation costs up 0.9% Dec 2024 to Mar 2025 and up 3.6% over the year ending Mar 2025",
+      "content": "Compensation costs increased 0.9 percent for civilian workers, seasonally adjusted, from December 2024 to March 2025. Over the year, total compensation rose 3.6 percent, wages and salaries rose 3.5 percent, and benefit costs rose 3.8 percent.",
+      "published": "2025-04-30T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/eci_04302025.htm",
+      "topic": "ECI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "eci-2025_01_31__08_30_00",
+      "title": "Compensation costs up 0.9% Sep 2024 to Dec 2024 and up 3.8% over the year ending Dec 2024",
+      "content": "Compensation costs increased 0.9 percent for civilian workers, seasonally adjusted, from September 2024 to December 2024. Over the year, total compensation rose 3.8 percent, wages and salaries rose 3.8 percent, and benefit costs rose 3.6 percent.",
+      "published": "2025-01-31T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/eci_01312025.htm",
+      "topic": "ECI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "eci-2024_10_31__08_30_00",
+      "title": "Compensation costs up 0.8% Jun 2024 to Sep 2024 and up 3.9% over the year ending Sep 2024",
+      "content": "Compensation costs increased 0.8 percent for civilian workers, seasonally adjusted, from June 2024 to September 2024. Over the year, total compensation rose 3.9 percent, wages and salaries rose 3.9 percent, and benefit costs rose 3.7 percent.",
+      "published": "2024-10-31T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/eci_10312024.htm",
+      "topic": "ECI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "eci-2024_07_31__08_30_00",
+      "title": "Compensation costs up 0.9% Mar 2024 to Jun 2024 and up 4.1% over the year ending Jun 2024",
+      "content": "Compensation costs increased 0.9 percent for civilian workers, seasonally adjusted, from March 2024 to June 2024. Over the year, total compensation rose 4.1 percent, wages and salaries rose 4.2 percent, and benefit costs rose 3.8 percent.",
+      "published": "2024-07-31T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/eci_07312024.htm",
+      "topic": "ECI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "eci-2024_04_30__08_30_00",
+      "title": "Compensation costs up 1.2% Dec 2023 to Mar 2024 and up 4.2% over the year ending Mar 2024",
+      "content": "Compensation costs increased 1.2 percent for civilian workers, seasonally adjusted, from December 2023 to March 2024. Over the year, total compensation rose 4.2 percent, wages and salaries rose 4.4 percent, and benefit costs rose 3.7 percent.",
+      "published": "2024-04-30T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/eci_04302024.htm",
+      "topic": "ECI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "eci-2024_01_31__08_30_00",
+      "title": "Compensation costs up 0.9% Sep 2023 to Dec 2023 and up 4.2% over the year ending Dec 2023",
+      "content": "Compensation costs increased 0.9 percent for civilian workers, seasonally adjusted, from September 2023 to December 2023. Over the year, total compensation rose 4.2 percent, wages and salaries rose 4.3 percent, and benefit costs rose 3.8 percent.",
+      "published": "2024-01-31T08:30:00-05:00",
+      "url": "https://www.bls.gov/news.release/archives/eci_01312024.htm",
+      "topic": "ECI",
+      "source": "U.S. Bureau of Labor Statistics"
+    },
+    {
+      "id": "eci-2023_10_31__08_30_00",
+      "title": "Compensation costs up 1.1% Jun 2023 to Sep 2023 and up 4.3% over the year ending Sep 2023",
+      "content": "Compensation costs increased 1.1 percent for civilian workers, seasonally adjusted, from June 2023 to September 2023. Over the year, total compensation rose 4.3 percent, wages and salaries rose 4.6 percent, and benefit costs rose 4.1 percent.",
+      "published": "2023-10-31T08:30:00-04:00",
+      "url": "https://www.bls.gov/news.release/archives/eci_10312023.htm",
+      "topic": "ECI",
       "source": "U.S. Bureau of Labor Statistics"
     }
   ]

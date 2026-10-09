@@ -1,0 +1,1 @@
+export const topics:Record<string,string>={CPI:'เงินเฟ้อผู้บริโภค (CPI)',EMPLOYMENT:'การจ้างงานสหรัฐฯ',PPI:'ราคาผู้ผลิต (PPI)',JOLTS:'ตำแหน่งงานว่างและการลาออก',ECI:'ต้นทุนค่าจ้างและสวัสดิการ',PRODUCTIVITY:'ผลิตภาพและต้นทุนแรงงาน',TRADE_PRICES:'ราคานำเข้าและส่งออก'};
